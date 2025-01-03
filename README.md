@@ -1,4 +1,11 @@
-# og.new
+# og.tool
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/public/samples/og.tool.dark.png" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/public/samples/og.tool.light.png" />
+    <img  src="/public/samples/og.tool.light.png" alt="liaoyi's github stats" />
+  </picture>
+
 
 ## Development
 
